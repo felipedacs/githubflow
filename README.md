@@ -16,5 +16,6 @@ git rebase upstream/<branch> # git rebase upstream/master
 # ou (?)
 # git a .
 # git rebase --continue
+# ???
 ```
 
