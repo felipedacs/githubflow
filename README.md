@@ -16,6 +16,6 @@ git rebase upstream/<branch> # git rebase upstream/master
 # ou (?)
 # git a .
 # git rebase --continue
-# ???
+# ??? qq eu faço pra manter a separação dos commits mas dar rebase?
 ```
 
