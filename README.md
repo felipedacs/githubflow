@@ -17,5 +17,6 @@ git rebase upstream/<branch> # git rebase upstream/master
 # git a .
 # git rebase --continue
 # ??? qq eu faço pra manter a separação dos commits mas dar rebase?
+# pull request não está atualizando a cada commit novo
 ```
 
