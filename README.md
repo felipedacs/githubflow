@@ -2,6 +2,7 @@
 add com alias agr:
 - git cl
 - git rau
+- git o -b "feat/a"
 - git fum
 - git rum
 - editar
