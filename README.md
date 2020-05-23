@@ -4,6 +4,7 @@ add com alias agr:
 - git rau
 - git fum
 - git rum
+- git o -b "feat/a"
 - editar
 - git a
 - git cm
