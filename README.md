@@ -10,3 +10,9 @@ add com alias agr:
 - git psom
 - git fum
 - git rum
+
+## conflito
+- resolve conflito
+- git a
+- git rebase --continue
+> só isso ?
